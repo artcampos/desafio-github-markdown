@@ -14,6 +14,7 @@ Demonstrar o uso básico de:
 - Commits e Pull Requests
 - Issues e colaboração
 - Edição de arquivos Markdown (`README.md`)
+- Realizar correções
 
 ---
 
